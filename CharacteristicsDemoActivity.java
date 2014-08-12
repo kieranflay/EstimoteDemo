@@ -102,6 +102,7 @@ public class CharacteristicsDemoActivity extends Activity {
       }
     };
   }
+  
 
     private View.OnClickListener createUpdateMajorButtonListener() {
         return new View.OnClickListener() {
